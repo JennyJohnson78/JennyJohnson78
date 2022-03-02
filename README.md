@@ -6,5 +6,5 @@
 - 💬 Ask me about my interests and my experience!
 - 📫 How to reach me: jennylj78@gmail.com
 - 👋 My LinkedIn Profile: https://www.linkedin.com/in/jennifer-johnson-a32b88219/
-- ⚡ Fun facts: I'm a metal head, I'm 4' 10", and I love animals.
+- ⚡ Fun facts: I'm half Jamaican, I'm a metal head, I'm 4' 10", and I love animals.
 
