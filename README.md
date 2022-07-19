@@ -1,6 +1,6 @@
 ### Hi, my name is Jenny Johnson 👋
 
-- 🔭 I’m currently a Post Ms. Sci Data Analytics student at MSU's College of Engineering.
+- 🔭 I’m currently a Post Ms. Sci Data Analytics and Engineering student.
 - 🌱 I’m currently learning to stregthen my knowledge of Data Analytics and Data Science. 
 - 👯 I’m looking for a full time position as a Data Analyst, and to collaborate on any project that utilized the practices used in Data Analytics.
 - 💬 Ask me about my interests and my experience!
