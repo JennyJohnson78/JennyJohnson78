@@ -1,6 +1,6 @@
 ### Hi, my name is Jenny Johnson 👋
 
-- 🔭 I’m currently a Post Ms. Sci Data Analytics and Engineering student.
+- 🔭 I’m currently a Post Ms. Sci Data Analytics student and Data Analyst.
 - 🌱 I’m currently learning to stregthen my knowledge of Business and Data Analytics. 
 - 👯 I’m looking for a full time position as a Business or Data Analyst, and to collaborate on any project that utilized the practices used in Business and Data Analytics.
 - 💬 Ask me about my interests and my experience!
