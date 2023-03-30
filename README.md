@@ -1,8 +1,8 @@
 ### Hi, my name is Jenny Johnson 👋
 
-- 🔭 I’m currently a Post Ms. Sci Data Analytics student and Data Analyst.
-- 🌱 I’m currently learning to stregthen my knowledge of Business and Data Analytics. 
-- 👯 I’m looking for a full time position as a Business or Data Analyst, and to collaborate on any project that utilized the practices used in Business and Data Analytics.
+- 🔭 I’m currently a Business Data Analyst.
+- 🌱 I’m currently learning and working to stregthen my knowledge of business and data analytics. 
+- 👯 I’m looking to collaborate on any project that utilized the practices used in business and data Analytics.
 - 💬 Ask me about my interests and my experience!
 - 📫 How to reach me: jennylj78@gmail.com
 - 👋 My LinkedIn Profile: https://www.linkedin.com/in/jennifer-johnson-a32b88219/
